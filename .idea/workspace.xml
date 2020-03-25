@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16758b06-b4a0-4f1d-844b-c1c64f8682b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DashaMaps/DashMapTwo$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DashaMaps/DashMapTwo$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DashaMaps/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DashaMaps/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DashMapOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DashMapOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DashMapThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DashMapThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DashMapTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DashMapTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +34,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565362466667" />
@@ -111,7 +119,7 @@
       <updated>1565357944193</updated>
       <workItem from="1565357947238" duration="6000" />
       <workItem from="1565357963802" duration="4390000" />
-      <workItem from="1585141558819" duration="2650000" />
+      <workItem from="1585141558819" duration="3270000" />
     </task>
     <servers />
   </component>
@@ -119,22 +127,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1585144264072">
+    <state width="1238" height="79" key="GridCell.Tab.0.bottom" timestamp="1585146106595">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585144264072" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1585144264071">
+    <state width="1238" height="79" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585146106595" />
+    <state width="1238" height="79" key="GridCell.Tab.0.center" timestamp="1585146106591">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585144264071" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1585144264070">
+    <state width="1238" height="79" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585146106591" />
+    <state width="1238" height="79" key="GridCell.Tab.0.left" timestamp="1585146106590">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585144264070" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1585144264071">
+    <state width="1238" height="79" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585146106590" />
+    <state width="1238" height="79" key="GridCell.Tab.0.right" timestamp="1585146106594">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585144264071" />
+    <state width="1238" height="79" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585146106594" />
     <state x="141" y="23" width="1024" height="737" key="SettingsEditor" timestamp="1585142599331">
       <screen x="0" y="0" width="1280" height="800" />
     </state>

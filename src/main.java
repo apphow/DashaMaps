@@ -1,4 +1,3 @@
-import sun.applet.Main;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
